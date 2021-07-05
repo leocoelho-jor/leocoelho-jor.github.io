@@ -11,7 +11,7 @@ modified: 2021-06-23T19:14:21-03:00
 
 ## **2010**
 * * *
-> Graduação em Jornalismo na FACHA (Faculdades Integradas H�lio Alonso)
+> Graduação em Jornalismo na FACHA (Faculdades Integradas Hélio Alonso)
 
 ## **2010-2012**
 * * *
@@ -28,7 +28,7 @@ modified: 2021-06-23T19:14:21-03:00
 
 ## **2017**
 * * *
-> Assessoria de Imprensa e fot�grafo; Instituto de Matemática Pura e Aplicada
+> Assessoria de Imprensa e fotógrafo; Instituto de Matemática Pura e Aplicada
 
 ## **2018-2020**
 * * *
