@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cronologia/Timeline
-modified: 2021-06-23T19:14:21-03:00
+modified: 2021-10-24T22:25:33-03:00
 ---
 
 {{ page.title }}
@@ -36,4 +36,4 @@ modified: 2021-06-23T19:14:21-03:00
 
 ## **2018-**
 * * *
-> Freelancer para veículos como Latin American Journalism Review, Foreign Policy, Channel 9, The Intercept Brasil, Rest of World, Bellingcat, Fox News, NBC,UOL, Congresso em Foco 
+> Freelancer para veículos como New York Times, Latin American Journalism Review, Foreign Policy, Channel 9, The Intercept Brasil, Rest of World, Bellingcat, Fox News, NBC,UOL, Congresso em Foco
